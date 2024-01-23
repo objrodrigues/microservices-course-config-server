@@ -2,7 +2,7 @@ spring:
   application:
     name: greeting-service
 greeting-service:
-  greeting: "Olá"
+  greeting: "Holla"
   default-value: "QA!"
 management:
   endpoints:
